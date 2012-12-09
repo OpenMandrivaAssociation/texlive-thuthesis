@@ -77,3 +77,16 @@ bachelor's, master's or doctor's degree.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 4.5.1-2
++ Revision: 756842
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 4.5.1-1
++ Revision: 719739
+- texlive-thuthesis
+- texlive-thuthesis
+- texlive-thuthesis
+
