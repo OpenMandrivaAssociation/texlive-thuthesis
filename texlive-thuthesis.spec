@@ -6,7 +6,7 @@
 # catalog-version 4.5.1
 Name:		texlive-thuthesis
 Version:	4.5.1
-Release:	3
+Release:	4
 Summary:	Thesis template for Tsinghua University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thuthesis
