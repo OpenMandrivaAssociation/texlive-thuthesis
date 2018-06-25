@@ -1,5 +1,5 @@
 Name:		texlive-thuthesis
-Version:	5.4.3
+Version:	5.4.5
 Release:	1
 Summary:	Thesis template for Tsinghua University
 Group:		Publishing
