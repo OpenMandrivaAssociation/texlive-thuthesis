@@ -1,6 +1,6 @@
 Name:		texlive-thuthesis
-Version:	64628
-Release:	2
+Version:	67127
+Release:	1
 Summary:	Thesis template for Tsinghua University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thuthesis
