@@ -3,7 +3,7 @@ Version:	71680
 Release:	1
 Summary:	Thesis template for Tsinghua University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thuthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thuthesis
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thuthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thuthesis.doc.r%{version}.tar.xz
